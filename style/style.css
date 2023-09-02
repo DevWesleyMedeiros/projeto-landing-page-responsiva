@@ -159,3 +159,16 @@ html, body {
 .container4 p {
     text-align: justify;
 }
+.footer {
+    border-top: 1px solid #999999;;
+}
+.footer .footer-paragraph {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: nowrap;
+}
+.footer .footer-paragraph  {
+    color: #999999;
+    text-align: center;
+}
